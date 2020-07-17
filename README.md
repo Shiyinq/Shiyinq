@@ -36,9 +36,10 @@ AboutMeAsDeveloper:
       - https://www.freecodecamp.org/news/
       - https://www.samanthaming.com/
     Learning:
-      -
-      -
-      -
+      - https://youtube.com/webprogrammingunpas
+      - https://www.freecodecamp.org/learn
+      - http://buildwithangga.com/
+      - https://scrimba.com/
   ContactMe:
     - shiyinq.github.io@gmail.com
 ```
