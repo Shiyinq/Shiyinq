@@ -1,4 +1,38 @@
 ### Hi there 👋
+```yaml
+AboutMeAsDeveloper:
+  Name: Shiyinq
+  Pronouns: Shiying
+  DailyWorking:
+    OperatingSystem:
+      - Linux (Ubuntu 20.04 LTS)
+      - Windows 10
+    Languange:
+      - HTML
+      - CSS
+      - JavaScript
+      - PHP
+      - YAML
+      - Kata ML
+    Database:
+      - MySQL
+    Framework:
+      - Vue
+      - Lumen
+      - Laravel
+      - Kata CLI
+    Tools:
+      - VsCode
+      - GitKraken
+      - Postman
+      - Terminal
+      - DBeaver/HeidiSQL
+      - Chrome
+      - Telegram
+      - Slack
+  ContactMe:
+    - shiyinq.github.io@gmail.com
+```
 
 <!--
 **Shiyinq/Shiyinq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
