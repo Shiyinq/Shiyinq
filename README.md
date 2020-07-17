@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://media.giphy.com/media/j2NDJZct5aXPzQItQ9/giphy.gif) 
 ```yaml
 AboutMeAsDeveloper:
   Name: Shiyinq
