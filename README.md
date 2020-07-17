@@ -30,6 +30,15 @@ AboutMeAsDeveloper:
       - Chrome
       - Telegram
       - Slack
+  Favorite:
+    Reading:
+      - https://dev.to/
+      - https://www.freecodecamp.org/news/
+      - https://www.samanthaming.com/
+    Learning:
+      -
+      -
+      -
   ContactMe:
     - shiyinq.github.io@gmail.com
 ```
