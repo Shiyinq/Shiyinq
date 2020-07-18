@@ -40,6 +40,11 @@ AboutMeAsDeveloper:
       - https://www.freecodecamp.org/learn
       - http://buildwithangga.com/
       - https://scrimba.com/
+  FreeTime:
+    - Sleep
+    - Watching
+    - Learning
+    - Listening Music
   ContactMe:
     - shiyinq.github.io@gmail.com
 ```
