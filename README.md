@@ -5,7 +5,7 @@
 </div>
 </br>
 
-Welcome to my profile here are some info Github Stats and About Me
+Welcome to my profile, here are some info My Github Stats and About Me
   - [GitHub Stats](#github-stats)
   - [About Me](#about-me)
 ## <a id="github-stats"></a> &#x1f4c8; GitHub Stats
