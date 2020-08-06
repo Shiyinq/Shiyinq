@@ -5,9 +5,10 @@
 </div>
 </br>
 
-Welcome to my profile, here are some info My Github Stats and About Me
+Welcome to my profile, here are some info My Github Stats, About Me and Projects
   - [GitHub Stats](#github-stats)
   - [About Me](#about-me)
+  - [Projects](#projects)
 ## <a id="github-stats"></a> &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Shiyinq/Shiyinq">
@@ -69,6 +70,8 @@ AboutMeAsDeveloper:
   ContactMe:
     - shiyinq.github.io@gmail.com
 ```
+## <a id="projects"></a> 🚧 Projects
+You can find my porject on pinned bottom 👇
 
 <!--
 **Shiyinq/Shiyinq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
