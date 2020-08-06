@@ -1,4 +1,18 @@
-### Hi there 👋
+# Hello World 
+Welcome to my profile here are some info Github Stats and About Me as Developer7
+  - [GitHub Stats](#github-stats)
+  - [About Me](#about-me)
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Shiyinq/Shiyinq">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shiyinq&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Shiyinq's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Shiyinq/Shiyinq">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiyinq&hide=css&theme=tokyonight" />
+</a>
+
+## &#x1f4c8; About Me
 
 ```yaml
 AboutMeAsDeveloper:
@@ -49,9 +63,6 @@ AboutMeAsDeveloper:
   ContactMe:
     - shiyinq.github.io@gmail.com
 ```
-![Shiyinq's github stats](https://github-readme-stats.vercel.app/api?username=Shiyinq&show_icons=true&theme=tokyonight)
-
-![Shiyinq's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Shiyinq&show_icons=true&theme=tokyonight)
 
 <!--
 **Shiyinq/Shiyinq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
