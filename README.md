@@ -12,11 +12,11 @@ Welcome to my profile, here are some info My Github Stats, About Me and Projects
 ## <a id="github-stats"></a> &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Shiyinq/Shiyinq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shiyinq&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Shiyinq's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shiyinq&show_icons=true&line_height=27&count_private=true" alt="Shiyinq's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Shiyinq/Shiyinq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiyinq&hide=css&card_width=350&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiyinq&hide=css&card_width=350" />
 </a>
 
 ## <a id="about-me"></a>📜 About Me
