@@ -1,6 +1,6 @@
 # 👋 Hello World 
 
-<div align="center">
+<div align="left">
   <img align="center" src="https://media.giphy.com/media/3ohjUQ7thol3lxFYDS/giphy.gif" alt="Asimo" />
 </div>
 </br>
