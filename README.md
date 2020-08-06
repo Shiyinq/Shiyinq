@@ -1,8 +1,8 @@
 # 👋 Hello World 
-Welcome to my profile here are some info Github Stats and About Me as Developer7
+Welcome to my profile here are some info Github Stats and About Me as Developer
   - [GitHub Stats](#github-stats)
   - [About Me](#about-me)
-## &#x1f4c8; GitHub Stats
+## <a id="github-stats"></a> &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Shiyinq/Shiyinq">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shiyinq&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Shiyinq's GitHub Stats" />
@@ -12,7 +12,7 @@ Welcome to my profile here are some info Github Stats and About Me as Developer7
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiyinq&hide=css&theme=tokyonight" />
 </a>
 
-## 📜 About Me
+## <a id="about-me"></a>📜 About Me
 
 ```yaml
 AboutMeAsDeveloper:
