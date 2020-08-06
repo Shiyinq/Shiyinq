@@ -1,4 +1,4 @@
-# Hello World 
+# 👋 Hello World 
 Welcome to my profile here are some info Github Stats and About Me as Developer7
   - [GitHub Stats](#github-stats)
   - [About Me](#about-me)
@@ -12,7 +12,7 @@ Welcome to my profile here are some info Github Stats and About Me as Developer7
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiyinq&hide=css&theme=tokyonight" />
 </a>
 
-## &#x1f4c8; About Me
+## 📜 About Me
 
 ```yaml
 AboutMeAsDeveloper:
