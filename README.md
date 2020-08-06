@@ -1,6 +1,8 @@
 # 👋 Hello World 
+
 <div align="center">
-<img src="https://media.giphy.com/media/3ohjUQ7thol3lxFYDS/giphy.gif" alt="Asimo" />
+  <img align="center" width="420" src="https://media.giphy.com/media/3ohjUQ7thol3lxFYDS/giphy.gif" alt="Asimo" />
+  <img align="center" width="420" src="https://media.giphy.com/media/3ohjUQ7thol3lxFYDS/giphy.gif" alt="Asimo" />
 </div>
 
 Welcome to my profile here are some info Github Stats and About Me as Developer
