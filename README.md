@@ -16,7 +16,7 @@ Welcome to my profile, here are some info My Github Stats, About Me and Projects
 </a>
 
 <a href="https://github.com/Shiyinq/Shiyinq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiyinq&hide=css&card_width=345&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiyinq&hide=css&card_width=350&theme=tokyonight" />
 </a>
 
 ## <a id="about-me"></a>📜 About Me
