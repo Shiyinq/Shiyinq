@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 ```yaml
 AboutMeAsDeveloper:
   Name: Shiyinq
@@ -48,6 +49,9 @@ AboutMeAsDeveloper:
   ContactMe:
     - shiyinq.github.io@gmail.com
 ```
+![Shiyinq's github stats](https://github-readme-stats.vercel.app/api?username=Shiyinq&show_icons=true&theme=tokyonight)
+
+![Shiyinq's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Shiyinq&show_icons=true&theme=tokyonight)
 
 <!--
 **Shiyinq/Shiyinq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
