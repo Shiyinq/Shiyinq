@@ -71,7 +71,7 @@ AboutMeAsDeveloper:
     - shiyinq.github.io@gmail.com
 ```
 ## <a id="projects"></a> 🚧 Projects
-You can find my porject on pinned bottom 👇
+You can find my porject on pinned down below 👇
 
 <!--
 **Shiyinq/Shiyinq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
