@@ -44,11 +44,12 @@ AboutMeAsDeveloper:
       - Laravel
       - Kata CLI
     Tools:
+      - Neovim
       - VsCode
       - GitKraken
       - Postman
       - Terminal
-      - DBeaver/HeidiSQL
+      - DBeaver
       - Chrome
       - Telegram
       - Slack
