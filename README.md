@@ -28,7 +28,6 @@ AboutMeAsDeveloper:
   DailyWorking:
     OperatingSystem:
       - Linux (Ubuntu 20.04 LTS)
-      - Windows 10
     Languange:
       - HTML
       - CSS
