@@ -24,7 +24,6 @@ Welcome to my profile, here are some info My Github Stats, About Me and Projects
 ```yaml
 AboutMeAsDeveloper:
   Name: Shiyinq
-  Pronouns: Shiying
   DailyWorking:
     OperatingSystem:
       - Linux (Ubuntu 20.04 LTS)
